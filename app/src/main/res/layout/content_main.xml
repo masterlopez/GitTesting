@@ -16,5 +16,6 @@
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Hello Puerto Rico!"/>
+        android:textColor="@android:color/holo_green_dark"
+        android:text="Hello Puerto Rico! Como esta ese calorrrr?"/>
 </RelativeLayout>
